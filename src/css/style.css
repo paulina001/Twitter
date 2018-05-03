@@ -1,0 +1,47 @@
+body{
+  text-align: center;
+}
+table{
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 15px;
+  border-collapse: collapse;
+}
+td, th, tr  {
+  border: 1px solid black;
+  padding: 5px;
+}
+
+a:link{
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul > li {
+  display: inline-block;
+  padding: 20px;
+  
+}
+
+.bold {
+  font-weight:700;
+  color: black;
+}
+
+.normal {
+  color:black;
+  font-weight:400;
+}
+.form{
+  text-align: right;
+}
+
+.content{
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+}
